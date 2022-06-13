@@ -1,0 +1,169 @@
+POST localhost:9000/process
+Content-Type: application/json
+
+{
+  "message": [
+    {
+      "positions": [
+        76,
+        479,
+        86,
+        1132
+      ],
+      "label": "alert"
+    },
+    {
+      "positions": [
+        100,
+        37,
+        106,
+        293
+      ],
+      "label": "alert"
+    },
+    {
+      "positions": [
+        106,
+        23,
+        670,
+        41
+      ],
+      "label": "alert"
+    },
+    {
+      "positions": [
+        130,
+        319,
+        505,
+        324
+      ],
+      "label": "button"
+    },
+    {
+      "positions": [
+        135,
+        48,
+        160,
+        192
+      ],
+      "label": "button"
+    },
+    {
+      "positions": [
+        253,
+        48,
+        267,
+        183
+      ],
+      "label": "card"
+    },
+    {
+      "positions": [
+        267,
+        415,
+        463,
+        516
+      ],
+      "label": "chip"
+    },
+    {
+      "positions": [
+        295,
+        615,
+        390,
+        710
+      ],
+      "label": "chip"
+    },
+    {
+      "positions": [
+        350,
+        49,
+        366,
+        175
+      ],
+      "label": "radio_button_checked"
+    },
+    {
+      "positions": [
+        445,
+        59,
+        465,
+        186
+      ],
+      "label": "button"
+    },
+    {
+      "positions": [
+        446,
+        871,
+        789,
+        927
+      ],
+      "label": "alert"
+    },
+    {
+      "positions": [
+        502,
+        479,
+        514,
+        664
+      ],
+      "label": "checkbox_checked"
+    },
+    {
+      "positions": [
+        543,
+        67,
+        554,
+        194
+      ],
+      "label": "button"
+    },
+    {
+      "positions": [
+        583,
+        724,
+        598,
+        831
+      ],
+      "label": "checkbox_checked"
+    },
+    {
+      "positions": [
+        593,
+        606,
+        604,
+        696
+      ],
+      "label": "chip"
+    },
+    {
+      "positions": [
+        629,
+        67,
+        640,
+        171
+      ],
+      "label": "alert"
+    },
+    {
+      "positions": [
+        668,
+        55,
+        679,
+        331
+      ],
+      "label": "chip"
+    },
+    {
+      "positions": [
+        689,
+        758,
+        739,
+        833
+      ],
+      "label": "alert"
+    }
+  ]
+}
